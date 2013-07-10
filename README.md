@@ -1,4 +1,4 @@
-ATTiny85 Battery Indicator
+ATTiny85 Battery Level Indicator
 ========================
 
 Simple 3 LED ATTiny85 based 4.5V battery level indicator
